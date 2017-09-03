@@ -1,0 +1,85 @@
+﻿  stdafx.cpp
+  theheader.cpp
+  C++ Overview.cpp
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(204): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(206): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(207): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(208): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(209): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(210): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(211): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(212): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(213): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(214): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(230): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(234): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(262): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(297): warning C4094: untagged 'class' declared no symbols
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(302): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(303): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(304): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(316): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(317): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(333): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(334): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(335): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(342): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(347): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(371): warning C4129: 'p': unrecognized character escape sequence
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(375): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(376): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(452): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(453): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(454): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(455): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(456): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(530): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(555): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(681): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(763): warning C4309: 'initializing': truncation of constant value
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(805): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(841): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(842): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(843): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(844): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(891): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(892): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(893): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(910): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(911): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(912): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(913): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(914): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(977): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(978): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(990): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1086): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1089): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1100): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1101): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1106): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1107): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1108): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1109): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1110): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1111): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1114): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1115): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1116): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(1117): warning C4010: single-line comment contains line-continuation character
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(630): warning C4101: 'cpp': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(632): warning C4101: 'fp': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(631): warning C4101: 'ap': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(645): warning C4101: 'na1': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(765): warning C4101: 'n7': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(752): warning C4101: 'vp': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(764): warning C4101: 'n6': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(786): warning C4101: 'col1': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(930): warning C4101: 'e': unreferenced local variable
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(937): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(273): warning C4172: returning address of local variable or temporary
+e:\aaa - pulpit\c++ gamedev\theoretical c++ overview\c++ overview\c++ overview.cpp(168): warning C4715: 'operator++': not all control paths return a value
+  c++ overview.vcxproj -> E:\aaa - pulpit\C++ gamedev\Theoretical C++ Overview\x64\Debug\C++ Overview.exe
+  c++ overview.vcxproj -> E:\aaa - pulpit\C++ gamedev\Theoretical C++ Overview\x64\Debug\C++ Overview.pdb (Full PDB)

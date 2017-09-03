@@ -1,0 +1,74 @@
+﻿  ConsoleApplication1.cpp
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(230): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(232): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(233): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(234): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(235): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(236): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(237): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(238): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(239): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(240): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(256): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(260): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(288): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(249): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(323): warning C4094: untagged 'class' declared no symbols
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(328): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(329): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(330): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(342): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(343): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(359): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(360): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(361): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(368): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(373): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(397): warning C4129: 'p': unrecognized character escape sequence
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(401): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(402): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(478): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(479): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(480): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(481): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(482): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(558): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(583): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(791): warning C4309: 'initializing': truncation of constant value
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(921): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(923): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(941): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(942): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(943): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(944): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1007): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1008): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1020): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1116): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1120): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1131): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1132): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1137): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1138): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1139): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1140): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1141): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1142): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1145): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1146): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1147): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(1148): warning C4010: single-line comment contains line-continuation character
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(658): warning C4101: 'cpp': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(660): warning C4101: 'fp': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(659): warning C4101: 'ap': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(673): warning C4101: 'na1': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(793): warning C4101: 'n7': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(780): warning C4101: 'vp': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(792): warning C4101: 'n6': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(814): warning C4101: 'col1': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(960): warning C4101: 'e': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(967): warning C4101: 'e': unreferenced local variable
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(299): warning C4172: returning address of local variable or temporary
+c:\users\anderzejn\desktop\c++ gamedev\aaa - consoleapplication1\consoleapplication1\consoleapplication1.cpp(194): warning C4715: 'operator++': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\anderzejn\Desktop\C++ gamedev\aaa - ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\anderzejn\Desktop\C++ gamedev\aaa - ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
